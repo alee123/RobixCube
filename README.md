@@ -1,4 +1,4 @@
-# Robix Cube
+# Robix/Robox Cube
 POE, Spring 2014
 
 Mitch Cieminski, Alex Crease, Amanda Lee
